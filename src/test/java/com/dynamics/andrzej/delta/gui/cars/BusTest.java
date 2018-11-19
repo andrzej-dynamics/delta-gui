@@ -8,6 +8,6 @@ public class BusTest {
 
     @Test
     public void testCalcIncome() {
-        new Bus()
+//        new Bus()
     }
 }
